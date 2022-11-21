@@ -42,6 +42,3 @@ I've been programming microcontrollers for 6 years. The microcontrollers I use a
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/REevee0"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.1.0
-
