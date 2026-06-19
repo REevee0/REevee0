@@ -36,7 +36,7 @@ bare-metal C/C++ on microcontrollers, FPGA development, and RF/SDR systems.
 `Verilog` · `VHDL` · `Gowin` · `Xilinx / AMD`
 
 **Hardware & EDA**
-`KiCad`
+`KiCad` · `Altium` · `JLCPCB`
 
 **Domains**
 `Bare-metal firmware` · `RF / SDR` · `Signal processing` · `PCB design`
@@ -88,6 +88,10 @@ bare-metal C/C++ on microcontrollers, FPGA development, and RF/SDR systems.
   <a href="https://stackoverflow.com/users/20565285/reevee" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" /></a>
   <a href="https://twitter.com/TB2REV" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>
   <a href="https://www.instagram.com/yusuf_cosgun04" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Discord-reevee0-c084fc?style=flat&logo=discord&logoColor=white" alt="Discord: reevee0" />
 </p>
 
 <sub>I'm always open to collaborating on an interesting hardware or embedded project.</sub>
